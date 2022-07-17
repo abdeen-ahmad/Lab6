@@ -121,3 +121,4 @@ window.onload = function(){
     proffessor.greeting();
     proffessor.salute();
 }
+
